@@ -12,8 +12,8 @@
 > Open terminal
 
 ```
-    git clone https://github.com/mohsin-riad/bijoy-to-unicode-automation.git
-    cd bijoy-to-unicode-automation/Source/
+    git clone https://github.com/mohsin-riad/automation-bijoy-to-avro.git
+    cd automation-bijoy-to-avro/Source/
 ```
 
 <h2 align="center">Workflow</h2>
