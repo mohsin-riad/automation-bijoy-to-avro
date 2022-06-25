@@ -61,11 +61,11 @@
 
 > **Sample Input File**
 
-<img height=“200” src=temp/ansi_file.png>
+<img width=“500” src=temp/ansi_file.png>
 
 > **Sample Output File**
 
-<img width=“200” src=temp/unicode_file.png>
+<img width=“500” src=temp/unicode_file.png>
 
 --- 
 
