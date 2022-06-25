@@ -47,16 +47,29 @@
         |- f
 ```
 
-> **Sample directory visualization**
+> **Sample input directory visualization**
 
 <img width=“964” src=temp/img1.png>
 <img width=“964” src=temp/img2.png>
 <img width=“964” src=temp/img3.png>
 
+> **Sample Output directory visualization**
+
+- Here you can see that the files are being converted to ```.txt``` having UNICODE data
+
+<img width=“964” src=temp/img4.png>
+
+> **Sample Input File**
+
+<img height=“200” src=temp/ansi_file.png>
+
+> **Sample Output File**
+
+<img width=“200” src=temp/unicode_file.png>
+
 --- 
 
 <h2 align="center">Conclusion</h2>
-<hr>
 <h3 align="center">ভাষা হোক ঊন্মুক্ত</h3>
 <div align="center">
     <img width=“964” src=temp/good-luck.gif>
